@@ -1,0 +1,1 @@
+This file contains Python code in both .py and Jupyter Notebook formats, along with a report in Word format and a Jupyter Notebook report. To review the code with the Persian report, refer to the hw3_report file. For a better analysis of the results, please check the hw3_jupyterReport file.
